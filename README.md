@@ -28,12 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Ayushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushi-gupta&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi-gupta&layout=compact&theme=tokyonight)  
-
----
-
 ### 🌟 Fun Fact  
 I’m learning **Japanese (N5 level)** alongside **Robotics & AI** – because building robots that can say こんにちは sounds fun! 😄  
 
