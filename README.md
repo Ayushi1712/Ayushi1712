@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayushi Gupta  
 
-<!--
-**Ayushi1712/Ayushi1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Robotics Engineer** | 🤖 Enthusiast in **AI, ML, and IoT** | 💻 Skilled in **Python, C, C++**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me  
+- 🎓 Exploring **Robotics, ROS2, and Arduino**  
+- 📊 Learning **Machine Learning** with hands-on projects  
+- 🌐 Preparing for **TOEFL & JLPT N5** while expanding my global skills  
+- ⚡ Passionate about solving problems with **code + hardware**  
+
+---
+
+### 🛠️ Tech Stack  
+**Languages:** Python | C | C++  
+**Tools & Platforms:** Arduino | ROS2 | Tinkercad | Gazebo | Linux (Ubuntu)  
+**ML:** NumPy | Pandas | Matplotlib | TensorFlow (learning)  
+
+---
+
+### 🚀 Projects  
+🔹 [Arduino Line Following Rover](#) – Designed & programmed a rover that follows a track autonomously using sensors  
+🔹 [IoT Home Automation](#) – Developed a smart home system with Arduino & sensors for automation and control  
+🔹 [Hand Gesture Control with OpenCV](#) – Built a system to control devices/robots using real-time hand gesture recognition   
+
+*(More projects coming soon – stay tuned!)*  
+
+---
+
+### 📊 GitHub Stats  
+![Ayushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushi-gupta&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi-gupta&layout=compact&theme=tokyonight)  
+
+---
+
+### 🌟 Fun Fact  
+I’m learning **Japanese (N5 level)** alongside **Robotics & AI** – because building robots that can say こんにちは sounds fun! 😄  
+
+---
+
+⭐️ *Let’s connect and collaborate on cool robotics & AI projects!*  
